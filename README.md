@@ -1,3 +1,4 @@
 # latihan-branch2
-Repository dibuat guna mempelajari branch serta merging dan pull request
-Saya suka machine learning
+Repository dibuat guna mempelajari branch serta merging dan pull request<br>
+Saya suka machine learning<br>
+i like python too
